@@ -13,7 +13,7 @@ This project proves data fluency by evaluating the **World Happiness Report (201
 ## 🔬 Four Inferential Frameworks
 
 ### 1. Hypothesis Testing (z-Test & Permutation Resampling)
-* **Headline**: *"Wealthy Nations Smile 1.49 Points Brighter: High-GDP Countries Blow Past Baseline Happiness ($z = 11.23, p < 0.0001$)!"*
+* **Headline**: Wealthy Nations Smile 1.49 Points Brighter: High-GDP Countries Blow Past Baseline Happiness (z = 11.23, p < 0.0001)!
 * **Results**: $\text{Mean}_{\text{HighGDP}} = 6.1615$ vs. $\text{Mean}_{\text{LowGDP}} = 4.6718$ ($\Delta = +1.4896$).
 * **Test Statistics**: $z = 11.2312, p < 0.0001$. Permutation testing ($10,000$ iterations) yielded $p < 0.0001$.
 
